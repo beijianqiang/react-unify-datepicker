@@ -1,6 +1,6 @@
 # react-unify-datepicker
 
-(https://github.com/beijianqiang/react-unify-datepicker/blob/master/preview/view.gif)
+![](https://github.com/beijianqiang/react-unify-datepicker/blob/master/preview/view.gif)
 
 ## Live Playground
 
