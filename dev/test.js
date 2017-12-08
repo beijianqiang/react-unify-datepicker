@@ -11,3 +11,4 @@ const app = document.getElementById('app');
 ReactDom.render((
     <UnifyDatePicker option='{"type":"date"}' />
 ), app);
+

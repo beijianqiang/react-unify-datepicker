@@ -1,8 +1,19 @@
 # react-unify-datepicker
 
-## Usage
-    npm install react-unify-datepicker --save-dev
+(https://github.com/beijianqiang/react-unify-datepicker/blob/master/preview/view.gif)
 
-    import UnifyDatePicker from 'react-unify-datepicker';
+## Live Playground
 
-    <UnifyDatePicker select={this.changeValue.bind(this)}/>
+To run that demo on your own computer:
+* Clone this repository
+* `npm install`
+* `npm start`
+* Visit http://localhost:8888/
+
+## Getting Started
+
+npm install react-unify-datepicker --save-dev
+
+import UnifyDatePicker from 'react-unify-datepicker';
+
+<UnifyDatePicker select={this.changeValue.bind(this)}/>
